@@ -26,3 +26,11 @@ Coding in output:
 
 1) -1 instead of <, 0 instead of =, 1 instead of >
 2) -1 instead of min, 1 instead of max
+
+Guide:
+
+1. Your linear problem has to be a .txt file.
+2. Browse your input file.
+3. Select your output folder.
+4. Convert the problem.
+5. You can open directly the converted problem (converted_lp.txt) through a message box (Y/N).
