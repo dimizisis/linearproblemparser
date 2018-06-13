@@ -34,3 +34,6 @@ Guide:
 3. Select your output folder.
 4. Convert the problem.
 5. You can open directly the converted problem (converted_lp.txt) through a message box (Y/N).
+
+
+![alt text](https://i.imgur.com/cmkxqrD.png)
