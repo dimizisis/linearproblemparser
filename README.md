@@ -7,9 +7,7 @@ Parser written in Java.
 
 Converts a linear problem of type:
 
-min (or max) c1x1 + c2x2 + ... + cnxn
-
-![alt text](https://i.imgur.com/zWpim5R.png)
+![alt text](https://i.imgur.com/4U25htI.png)
 
 to
 
